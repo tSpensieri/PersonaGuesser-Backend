@@ -8,11 +8,11 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dev.alessandro</groupId>
-    <artifactId>PersonaggioGuesser</artifactId>
+    <groupId>dev.thomas</groupId>
+    <artifactId>personaguesser</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>PersonaggioGyesser</name>
-    <description>PersonaggioGyesser</description>
+    <name>PersonaGuesser</name>
+    <description>Persona Guesser Backend</description>
     <properties>
         <java.version>17</java.version>
         <spring-ai.version>1.0.0-M1</spring-ai.version>

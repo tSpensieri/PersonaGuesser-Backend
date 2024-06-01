@@ -1,4 +1,4 @@
-package dev.thomas.personaggioguesser.config;
+package dev.thomas.personaguesser.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

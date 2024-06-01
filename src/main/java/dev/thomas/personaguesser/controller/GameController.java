@@ -1,6 +1,6 @@
-package dev.thomas.personaggioguesser.controller;
+package dev.thomas.personaguesser.controller;
 
-import dev.thomas.personaggioguesser.service.OpenAiIntegrationService;
+import dev.thomas.personaguesser.service.OpenAiIntegrationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

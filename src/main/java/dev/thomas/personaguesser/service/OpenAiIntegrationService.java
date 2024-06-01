@@ -1,4 +1,4 @@
-package dev.thomas.personaggioguesser.service;
+package dev.thomas.personaguesser.service;
 
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.ai.openai.OpenAiChatModel;
